@@ -20,10 +20,8 @@ int main(){
 
 
 
-
     printf("\nSumme: %f", eingabe[0] + eingabe[1] + eingabe[2]);
     printf("\nDurchschnitt: %f", (eingabe[0] + eingabe[1] + eingabe[2]) / 3);
-
 
 
 
